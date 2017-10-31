@@ -60,7 +60,7 @@ The following is a list of properties that are available for you under the `"exp
 
 - `icon`
 
-   Local path or remote url to an image to use for your app's icon. We recommend that you use a 512x512 png file with transparency. This icon will appear on the home screen and within the Expo app.
+   Local path or remote url to an image to use for your app's icon. We recommend that you use a 512x512 png file (can't be transparent nor contain an alpha channel for Apple App Store). This icon will appear on the home screen and within the Expo app.
 
 - `notification`
 
